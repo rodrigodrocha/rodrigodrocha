@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou o Rodrigo Donizetti Rocha
+<h1 align="center">Oi 👋, eu sou o Rodrigo Donizetti Rocha </h1>
 <div align=center>
   <a href="https://www.linkedin.com/in/rodrigo-donizetti-rocha-37a563216"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white" alt="Instagram" /></a>
@@ -18,16 +18,19 @@ I graduated in Aircraft Maintenance from the Federal Institution of Education, S
 
 ---
 
-## Habilidades
+<h2 align="center">GitHub Stats </h2>
+
+<p align="center" >&nbsp;<img align="center" width="345px" src="https://github.com/rodrigodrocha/rodrigodrocha/blob/main/my/snoopdog2.gif"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigodrocha&theme=transparent&bg_color=002&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /> </p>
+
+---
+<h2 align="center">Habilidades </h2>
+
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
-
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigodrocha&theme=transparent&bg_color=002&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rodrigodrocha&layout=compact&bg_color=002&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
