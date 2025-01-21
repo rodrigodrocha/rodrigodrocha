@@ -26,7 +26,7 @@ I graduated in Aircraft Maintenance from the Federal Institution of Education, S
 <h2 align="center">Habilidades </h2>
 
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
+![JavaScript](https://shields.io/badge/JavaScript-000?style=for-the-badge&logo=JavaScript&logoColor=FFFF00)
 ![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=30A3DC)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=E94D5F)
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
