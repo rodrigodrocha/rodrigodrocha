@@ -20,7 +20,7 @@ I graduated in Aircraft Maintenance from the Federal Institution of Education, S
 
 <h2 align="center">GitHub Stats </h2>
 
-<p align="center" >&nbsp;<img align="center" width="345px" src="https://github.com/rodrigodrocha/rodrigodrocha/blob/main/my/snoopdog2.gif"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigodrocha&theme=transparent&bg_color=002&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /> </p>
+<p align="center" >&nbsp;<img align="center" width="345px" src="https://github.com/rodrigodrocha/rodrigodrocha/blob/main/my/giphy.gif"/> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rodrigodrocha&theme=transparent&bg_color=002&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF" /> </p>
 
 ---
 <h2 align="center">Habilidades </h2>
