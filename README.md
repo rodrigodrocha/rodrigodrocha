@@ -2,7 +2,6 @@
 <div align=center>
   <a href="https://www.linkedin.com/in/rodrigo-donizetti-rocha"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
   <a href="mailto:rodrigo.rocha9229@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=flat&logo=microsoft-outlook&logoColor=E94D5F" alt="Email" emailto /></a>  
 </div>
 <br>
@@ -10,11 +9,6 @@
  ## Sobre mim
 
 Graduado em Manutenção de Aeronaves pela Instituição Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Carlos (IFSP). Em minha graduação tive contado e conheci a área da da Computação a qual fiquei muito interessado em aprender mais, especificamente em áreas como bancos de dados, inteligência artificial e aprendizado de máquina. Atualmente, estou cursando minha segunda graduação em Ciência de Dados na Universidade Virtual do Estado de São Paulo (UniVesp), com o objetivo de me especializar ainda mais e evoluir profissionalmente nesta área.
-
-
-### *English*
-
-I graduated in Aircraft Maintenance from the Federal Institution of Education, Science and Technology of São Paulo - São Carlos Campus (IFSP). During my studies, I was introduced to and became very interested in the field of Computer Science, specifically in areas such as databases, artificial intelligence, and machine learning. Currently, I am pursuing my second degree in Data Science at the Virtual University of the State of São Paulo (UniVesp), with the goal of further specializing and advancing professionally in this field.
 
 ---
 
