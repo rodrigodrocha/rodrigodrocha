@@ -1,6 +1,6 @@
 <h1 align="center">Oi 👋, eu sou o Rodrigo Donizetti Rocha </h1>
 <div align=center>
-  <a href="https://www.linkedin.com/in/rodrigo-donizetti-rocha-37a563216"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/rodrigo-donizetti-rocha"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" alt="LinkedIn" /></a>
   <a href=""><img src="https://img.shields.io/badge/Instagram-E4405F?style=flate&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href=""><img src="https://img.shields.io/badge/Telegram-0088cc?style=flat&logo=telegram" alt="Telegram" /></a>
   <a href="mailto:rodrigo.rocha9229@gmail.com"><img src="https://img.shields.io/badge/-Email-000?style=flat&logo=microsoft-outlook&logoColor=E94D5F" alt="Email" emailto /></a>  
